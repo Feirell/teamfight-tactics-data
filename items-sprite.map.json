@@ -1,0 +1,266 @@
+{
+  "b-f-sword": {
+    "x": 50,
+    "y": 0,
+    "width": 50,
+    "height": 50
+  },
+  "chain-vest": {
+    "x": 100,
+    "y": 200,
+    "width": 50,
+    "height": 50
+  },
+  "giants-belt": {
+    "x": 0,
+    "y": 50,
+    "width": 50,
+    "height": 50
+  },
+  "needlessly-large-rod": {
+    "x": 50,
+    "y": 50,
+    "width": 50,
+    "height": 50
+  },
+  "negatron-cloak": {
+    "x": 100,
+    "y": 0,
+    "width": 50,
+    "height": 50
+  },
+  "recurve-bow": {
+    "x": 100,
+    "y": 50,
+    "width": 50,
+    "height": 50
+  },
+  "spatula": {
+    "x": 0,
+    "y": 100,
+    "width": 50,
+    "height": 50
+  },
+  "tear-of-the-goddess": {
+    "x": 50,
+    "y": 100,
+    "width": 50,
+    "height": 50
+  },
+  "blade-of-the-ruined-king": {
+    "x": 100,
+    "y": 100,
+    "width": 50,
+    "height": 50
+  },
+  "bloodthirster": {
+    "x": 150,
+    "y": 0,
+    "width": 50,
+    "height": 50
+  },
+  "cursed-blade": {
+    "x": 150,
+    "y": 50,
+    "width": 50,
+    "height": 50
+  },
+  "darkin": {
+    "x": 150,
+    "y": 100,
+    "width": 50,
+    "height": 50
+  },
+  "dragons-claw": {
+    "x": 0,
+    "y": 150,
+    "width": 50,
+    "height": 50
+  },
+  "force-of-nature": {
+    "x": 50,
+    "y": 150,
+    "width": 50,
+    "height": 50
+  },
+  "frozen-heart": {
+    "x": 100,
+    "y": 150,
+    "width": 50,
+    "height": 50
+  },
+  "frozen-mallet": {
+    "x": 150,
+    "y": 150,
+    "width": 50,
+    "height": 50
+  },
+  "guardian-angel": {
+    "x": 200,
+    "y": 0,
+    "width": 50,
+    "height": 50
+  },
+  "guinsoos-rageblade": {
+    "x": 200,
+    "y": 50,
+    "width": 50,
+    "height": 50
+  },
+  "hextech-gunblade": {
+    "x": 200,
+    "y": 100,
+    "width": 50,
+    "height": 50
+  },
+  "hush": {
+    "x": 200,
+    "y": 150,
+    "width": 50,
+    "height": 50
+  },
+  "infinity-edge": {
+    "x": 0,
+    "y": 200,
+    "width": 50,
+    "height": 50
+  },
+  "ionic-spark": {
+    "x": 50,
+    "y": 200,
+    "width": 50,
+    "height": 50
+  },
+  "knights-vow": {
+    "x": 0,
+    "y": 0,
+    "width": 50,
+    "height": 50
+  },
+  "locket-of-the-iron-solari": {
+    "x": 150,
+    "y": 200,
+    "width": 50,
+    "height": 50
+  },
+  "ludens-echo": {
+    "x": 200,
+    "y": 200,
+    "width": 50,
+    "height": 50
+  },
+  "morellonomicon": {
+    "x": 250,
+    "y": 0,
+    "width": 50,
+    "height": 50
+  },
+  "phantom-dancer": {
+    "x": 250,
+    "y": 50,
+    "width": 50,
+    "height": 50
+  },
+  "rabadons-deathcap": {
+    "x": 250,
+    "y": 100,
+    "width": 50,
+    "height": 50
+  },
+  "rapid-firecannon": {
+    "x": 250,
+    "y": 150,
+    "width": 50,
+    "height": 50
+  },
+  "red-buff": {
+    "x": 250,
+    "y": 200,
+    "width": 50,
+    "height": 50
+  },
+  "redemption": {
+    "x": 0,
+    "y": 250,
+    "width": 50,
+    "height": 50
+  },
+  "runaans-hurricane": {
+    "x": 50,
+    "y": 250,
+    "width": 50,
+    "height": 50
+  },
+  "seraphs-embrace": {
+    "x": 100,
+    "y": 250,
+    "width": 50,
+    "height": 50
+  },
+  "spear-of-shojin": {
+    "x": 150,
+    "y": 250,
+    "width": 50,
+    "height": 50
+  },
+  "statikk-shiv": {
+    "x": 200,
+    "y": 250,
+    "width": 50,
+    "height": 50
+  },
+  "sword-breaker": {
+    "x": 250,
+    "y": 250,
+    "width": 50,
+    "height": 50
+  },
+  "sword-of-the-divine": {
+    "x": 300,
+    "y": 0,
+    "width": 50,
+    "height": 50
+  },
+  "thornmail": {
+    "x": 300,
+    "y": 50,
+    "width": 50,
+    "height": 50
+  },
+  "titanic-hydra": {
+    "x": 300,
+    "y": 100,
+    "width": 50,
+    "height": 50
+  },
+  "warmogs-armor": {
+    "x": 300,
+    "y": 150,
+    "width": 50,
+    "height": 50
+  },
+  "youmuus-ghostblade": {
+    "x": 300,
+    "y": 200,
+    "width": 50,
+    "height": 50
+  },
+  "yuumi": {
+    "x": 300,
+    "y": 250,
+    "width": 50,
+    "height": 50
+  },
+  "zekes-herald": {
+    "x": 0,
+    "y": 300,
+    "width": 50,
+    "height": 50
+  },
+  "zephyr": {
+    "x": 50,
+    "y": 300,
+    "width": 50,
+    "height": 50
+  }
+}
