@@ -1,6 +1,7 @@
 {
   "scripts": {
-    "build-sprite": "node ./helper/gen-sprite.js"
+    "build-sprite": "node ./helper/gen-sprite.js",
+    "build-bundle": "node ./helper/bundle.js"
   },
   "devDependencies": {
     "chainable-error": "^0.0.1",
