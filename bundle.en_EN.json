@@ -821,7 +821,7 @@
       "dps": 39
     }
   ],
-  "itemBase": [
+  "itemsBase": [
     {
       "id": "b-f-sword",
       "name": "B. F. Sword",
@@ -863,7 +863,7 @@
       "description": "+20 starting Mana"
     }
   ],
-  "itemCombined": [
+  "itemsCombined": [
     {
       "id": "blade-of-the-ruined-king",
       "buildFrom": [
