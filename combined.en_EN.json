@@ -1,0 +1,1192 @@
+{
+  "classes": [
+    {
+      "id": "assassin",
+      "className": "Assassin",
+      "description": ""
+    },
+    {
+      "id": "blademaster",
+      "className": "Blademaster",
+      "description": ""
+    },
+    {
+      "id": "brawler",
+      "className": "Brawler",
+      "description": ""
+    },
+    {
+      "id": "elementalist",
+      "className": "Elementalist",
+      "description": ""
+    },
+    {
+      "id": "guardian",
+      "className": "Guardian",
+      "description": ""
+    },
+    {
+      "id": "gunslinger",
+      "className": "Gunslinger",
+      "description": ""
+    },
+    {
+      "id": "knight",
+      "className": "Knight",
+      "description": ""
+    },
+    {
+      "id": "ranger",
+      "className": "Ranger",
+      "description": ""
+    },
+    {
+      "id": "shapeshifter",
+      "className": "Shapeshifter",
+      "description": ""
+    },
+    {
+      "id": "sorcerer",
+      "className": "Sorcerer",
+      "description": ""
+    }
+  ],
+  "champions": [
+    {
+      "id": "aatrox",
+      "name": "Aatrox",
+      "class": "blademaster",
+      "origins": [
+        "demon"
+      ],
+      "cost": 2,
+      "health": [
+        650,
+        1170,
+        2340
+      ],
+      "dps": 42
+    },
+    {
+      "id": "ahri",
+      "name": "Ahri",
+      "class": "sorcerer",
+      "origins": [
+        "wild"
+      ],
+      "cost": 2,
+      "health": [
+        450,
+        810,
+        1620
+      ],
+      "dps": 28
+    },
+    {
+      "id": "akali",
+      "name": "Akali",
+      "class": "assassin",
+      "origins": [
+        "ninja"
+      ],
+      "cost": 4,
+      "health": [
+        700,
+        1260,
+        2520
+      ],
+      "dps": 53
+    },
+    {
+      "id": "anivia",
+      "name": "Anivia",
+      "class": "elementalist",
+      "origins": [
+        "glacial"
+      ],
+      "cost": 5,
+      "health": [
+        650,
+        1170,
+        2340
+      ],
+      "dps": 24
+    },
+    {
+      "id": "ashe",
+      "name": "Ashe",
+      "class": "ranger",
+      "origins": [
+        "glacial"
+      ],
+      "cost": 3,
+      "health": [
+        550,
+        990,
+        1980
+      ],
+      "dps": 42
+    },
+    {
+      "id": "aurelion-sol",
+      "name": "Aurelion Sol",
+      "class": "sorcerer",
+      "origins": [
+        "dragon"
+      ],
+      "cost": 4,
+      "health": [
+        600,
+        1080,
+        2160
+      ],
+      "dps": 24
+    },
+    {
+      "id": "blitzcrank",
+      "name": "Blitzcrank",
+      "class": "brawler",
+      "origins": [
+        "robot"
+      ],
+      "cost": 2,
+      "health": [
+        600,
+        1080,
+        2160
+      ],
+      "dps": 25
+    },
+    {
+      "id": "brand",
+      "name": "Brand",
+      "class": "elementalist",
+      "origins": [
+        "demon"
+      ],
+      "cost": 4,
+      "health": [
+        700,
+        1260,
+        2520
+      ],
+      "dps": 36
+    },
+    {
+      "id": "braum",
+      "name": "Braum",
+      "class": "guardian",
+      "origins": [
+        "glacial"
+      ],
+      "cost": 2,
+      "health": [
+        750,
+        1350,
+        2700
+      ],
+      "dps": 24
+    },
+    {
+      "id": "chogath",
+      "name": "Cho'Gath",
+      "class": "brawler",
+      "origins": [
+        "void"
+      ],
+      "cost": 4,
+      "health": [
+        1100,
+        2000,
+        4000
+      ],
+      "dps": 39
+    },
+    {
+      "id": "darius",
+      "name": "Darius",
+      "class": "knight",
+      "origins": [
+        "imperial"
+      ],
+      "cost": 1,
+      "health": [
+        600,
+        1080,
+        2160
+      ],
+      "dps": 25
+    },
+    {
+      "id": "draven",
+      "name": "Draven",
+      "class": "blademaster",
+      "origins": [
+        "imperial"
+      ],
+      "cost": 4,
+      "health": [
+        700,
+        1260,
+        2520
+      ],
+      "dps": 49
+    },
+    {
+      "id": "elise",
+      "name": "Elise",
+      "class": "shapeshifter",
+      "origins": [
+        "demon"
+      ],
+      "cost": 2,
+      "health": [
+        500,
+        900,
+        1800
+      ],
+      "dps": 24
+    },
+    {
+      "id": "evelynn",
+      "name": "Evelynn",
+      "class": "assassin",
+      "origins": [
+        "demon"
+      ],
+      "cost": 3,
+      "health": [
+        550,
+        990,
+        1980
+      ],
+      "dps": 30
+    },
+    {
+      "id": "fiora",
+      "name": "Fiora",
+      "class": "blademaster",
+      "origins": [
+        "noble"
+      ],
+      "cost": 1,
+      "health": [
+        400,
+        720,
+        1440
+      ],
+      "dps": 28
+    },
+    {
+      "id": "gangplank",
+      "name": "Gangplank",
+      "class": "gunslinger",
+      "origins": [
+        "pirate"
+      ],
+      "cost": 3,
+      "health": [
+        600,
+        1080,
+        2160
+      ],
+      "dps": 33
+    },
+    {
+      "id": "gangplank",
+      "name": "Gangplank",
+      "class": "blademaster",
+      "origins": [
+        "pirate"
+      ],
+      "cost": 3,
+      "health": [
+        600,
+        1080,
+        2160
+      ],
+      "dps": 33
+    },
+    {
+      "id": "garen",
+      "name": "Garen",
+      "class": "knight",
+      "origins": [
+        "noble"
+      ],
+      "cost": 1,
+      "health": [
+        600,
+        1080,
+        2160
+      ],
+      "dps": 30
+    },
+    {
+      "id": "gnar",
+      "name": "Gnar",
+      "class": "shapeshifter",
+      "origins": [
+        "wild",
+        "yordle"
+      ],
+      "cost": 4,
+      "health": [
+        850,
+        1530,
+        3060
+      ],
+      "dps": 31
+    },
+    {
+      "id": "graves",
+      "name": "Graves",
+      "class": "gunslinger",
+      "origins": [
+        "pirate"
+      ],
+      "cost": 1,
+      "health": [
+        500,
+        900,
+        1800
+      ],
+      "dps": 28
+    },
+    {
+      "id": "karthus",
+      "name": "Karthus",
+      "class": "sorcerer",
+      "origins": [
+        "phantom"
+      ],
+      "cost": 5,
+      "health": [
+        850,
+        1530,
+        3060
+      ],
+      "dps": 42
+    },
+    {
+      "id": "kassadin",
+      "name": "Kassadin",
+      "class": "sorcerer",
+      "origins": [
+        "void"
+      ],
+      "cost": 1,
+      "health": [
+        550,
+        990,
+        1980
+      ],
+      "dps": 29
+    },
+    {
+      "id": "katarina",
+      "name": "Katarina",
+      "class": "assassin",
+      "origins": [
+        "imperial"
+      ],
+      "cost": 3,
+      "health": [
+        450,
+        810,
+        1620
+      ],
+      "dps": 30
+    },
+    {
+      "id": "kayle",
+      "name": "Kayle",
+      "class": "knight",
+      "origins": [
+        "noble"
+      ],
+      "cost": 5,
+      "health": [
+        800,
+        1440,
+        2880
+      ],
+      "dps": 66
+    },
+    {
+      "id": "kennen",
+      "name": "Kennen",
+      "class": "elementalist",
+      "origins": [
+        "ninja",
+        "yordle"
+      ],
+      "cost": 3,
+      "health": [
+        550,
+        990,
+        1980
+      ],
+      "dps": 36
+    },
+    {
+      "id": "khazix",
+      "name": "Kha'Zix",
+      "class": "assassin",
+      "origins": [
+        "void"
+      ],
+      "cost": 1,
+      "health": [
+        500,
+        900,
+        1800
+      ],
+      "dps": 30
+    },
+    {
+      "id": "kindred",
+      "name": "Kindred",
+      "class": "ranger",
+      "origins": [
+        "phantom"
+      ],
+      "cost": 4,
+      "health": [
+        600,
+        1080,
+        2160
+      ],
+      "dps": 36
+    },
+    {
+      "id": "leona",
+      "name": "Leona",
+      "class": "guardian",
+      "origins": [
+        "noble"
+      ],
+      "cost": 4,
+      "health": [
+        750,
+        1350,
+        2700
+      ],
+      "dps": 25
+    },
+    {
+      "id": "lissandra",
+      "name": "Lissandra",
+      "class": "elementalist",
+      "origins": [
+        "glacial"
+      ],
+      "cost": 1,
+      "health": [
+        450,
+        810,
+        1620
+      ],
+      "dps": 24
+    },
+    {
+      "id": "lucian",
+      "name": "Lucian",
+      "class": "gunslinger",
+      "origins": [
+        "noble"
+      ],
+      "cost": 2,
+      "health": [
+        600,
+        1080,
+        2160
+      ],
+      "dps": 42
+    },
+    {
+      "id": "lulu",
+      "name": "Lulu",
+      "class": "sorcerer",
+      "origins": [
+        "yordle"
+      ],
+      "cost": 2,
+      "health": [
+        500,
+        900,
+        1800
+      ],
+      "dps": 30
+    },
+    {
+      "id": "miss-fortune",
+      "name": "Miss Fortune",
+      "class": "gunslinger",
+      "origins": [
+        "pirate"
+      ],
+      "cost": 5,
+      "health": [
+        650,
+        1170,
+        2340
+      ],
+      "dps": 64
+    },
+    {
+      "id": "mordekaiser",
+      "name": "Mordekaiser",
+      "class": "knight",
+      "origins": [
+        "phantom"
+      ],
+      "cost": 1,
+      "health": [
+        500,
+        900,
+        1800
+      ],
+      "dps": 25
+    },
+    {
+      "id": "morgana",
+      "name": "Morgana",
+      "class": "sorcerer",
+      "origins": [
+        "demon"
+      ],
+      "cost": 3,
+      "health": [
+        650,
+        1170,
+        2340
+      ],
+      "dps": 30
+    },
+    {
+      "id": "nidalee",
+      "name": "Nidalee",
+      "class": "shapeshifter",
+      "origins": [
+        "wild"
+      ],
+      "cost": 1,
+      "health": [
+        500,
+        900,
+        1800
+      ],
+      "dps": 33
+    },
+    {
+      "id": "poppy",
+      "name": "Poppy",
+      "class": "knight",
+      "origins": [
+        "yordle"
+      ],
+      "cost": 3,
+      "health": [
+        750,
+        1350,
+        2700
+      ],
+      "dps": 25
+    },
+    {
+      "id": "pyke",
+      "name": "Pyke",
+      "class": "assassin",
+      "origins": [
+        "pirate"
+      ],
+      "cost": 2,
+      "health": [
+        600,
+        1080,
+        2160
+      ],
+      "dps": 36
+    },
+    {
+      "id": "reksai",
+      "name": "Rek'Sai",
+      "class": "brawler",
+      "origins": [
+        "void"
+      ],
+      "cost": 2,
+      "health": [
+        650,
+        1170,
+        2340
+      ],
+      "dps": 26
+    },
+    {
+      "id": "rengar",
+      "name": "Rengar",
+      "class": "assassin",
+      "origins": [
+        "wild"
+      ],
+      "cost": 3,
+      "health": [
+        550,
+        990,
+        1980
+      ],
+      "dps": 30
+    },
+    {
+      "id": "sejuani",
+      "name": "Sejuani",
+      "class": "knight",
+      "origins": [
+        "glacial"
+      ],
+      "cost": 4,
+      "health": [
+        850,
+        1530,
+        3060
+      ],
+      "dps": 25
+    },
+    {
+      "id": "shen",
+      "name": "Shen",
+      "class": "blademaster",
+      "origins": [
+        "ninja"
+      ],
+      "cost": 2,
+      "health": [
+        650,
+        1170,
+        2340
+      ],
+      "dps": 39
+    },
+    {
+      "id": "shyvana",
+      "name": "Shyvana",
+      "class": "shapeshifter",
+      "origins": [
+        "dragon"
+      ],
+      "cost": 3,
+      "health": [
+        550,
+        990,
+        1980
+      ],
+      "dps": 33
+    },
+    {
+      "id": "swain",
+      "name": "Swain",
+      "class": "shapeshifter",
+      "origins": [
+        "demon",
+        "imperial"
+      ],
+      "cost": 5,
+      "health": [
+        850,
+        1530,
+        3060
+      ],
+      "dps": 42
+    },
+    {
+      "id": "tristana",
+      "name": "Tristana",
+      "class": "gunslinger",
+      "origins": [
+        "yordle"
+      ],
+      "cost": 1,
+      "health": [
+        500,
+        900,
+        1800
+      ],
+      "dps": 35
+    },
+    {
+      "id": "varus",
+      "name": "Varus",
+      "class": "ranger",
+      "origins": [
+        "demon"
+      ],
+      "cost": 2,
+      "health": [
+        500,
+        900,
+        1800
+      ],
+      "dps": 35
+    },
+    {
+      "id": "vayne",
+      "name": "Vayne",
+      "class": "ranger",
+      "origins": [
+        "noble"
+      ],
+      "cost": 1,
+      "health": [
+        550,
+        990,
+        1980
+      ],
+      "dps": 27
+    },
+    {
+      "id": "veigar",
+      "name": "Veigar",
+      "class": "sorcerer",
+      "origins": [
+        "yordle"
+      ],
+      "cost": 3,
+      "health": [
+        450,
+        810,
+        1620
+      ],
+      "dps": 25
+    },
+    {
+      "id": "volibear",
+      "name": "Volibear",
+      "class": "brawler",
+      "origins": [
+        "glacial"
+      ],
+      "cost": 2,
+      "health": [
+        650,
+        1170,
+        2340
+      ],
+      "dps": 38
+    },
+    {
+      "id": "warwick",
+      "name": "Warwick",
+      "class": "brawler",
+      "origins": [
+        "wild"
+      ],
+      "cost": 1,
+      "health": [
+        600,
+        1080,
+        2160
+      ],
+      "dps": 30
+    },
+    {
+      "id": "yasuo",
+      "name": "Yasuo",
+      "class": "blademaster",
+      "origins": [
+        "exile"
+      ],
+      "cost": 5,
+      "health": [
+        700,
+        1260,
+        2520
+      ],
+      "dps": 65
+    },
+    {
+      "id": "zed",
+      "name": "Zed",
+      "class": "assassin",
+      "origins": [
+        "ninja"
+      ],
+      "cost": 2,
+      "health": [
+        500,
+        900,
+        1800
+      ],
+      "dps": 39
+    }
+  ],
+  "itemBase": [
+    {
+      "id": "b-f-sword",
+      "name": "B. F. Sword",
+      "description": "+20 Attack Damage"
+    },
+    {
+      "id": "chain-vest",
+      "name": "Chain Vest",
+      "description": "+20 Armor"
+    },
+    {
+      "id": "giants-belt",
+      "name": "Giant's Belt",
+      "description": "+200 Health"
+    },
+    {
+      "id": "needlessly-large-rod",
+      "name": "Needlessly Large Rod",
+      "description": "+20% Spell Damage"
+    },
+    {
+      "id": "negatron-cloak",
+      "name": "Negatron Cloak",
+      "description": "+20 Magic Resist"
+    },
+    {
+      "id": "recurve-bow",
+      "name": "Recurve Bow",
+      "description": "+20% Attack Speed"
+    },
+    {
+      "id": "spatula",
+      "name": "Spatula",
+      "description": ""
+    },
+    {
+      "id": "tear-of-the-goddess",
+      "name": "Tear of the Goddess",
+      "description": "+20 starting Mana"
+    }
+  ],
+  "itemCombined": [
+    {
+      "id": "blade-of-the-ruined-king",
+      "buildFrom": [
+        "recurve-bow",
+        "spatula"
+      ],
+      "name": "Blade of the Ruined King",
+      "description": "Wearer is also a Blademaster."
+    },
+    {
+      "id": "bloodthirster",
+      "buildFrom": [
+        "b-f-sword",
+        "negatron-cloak"
+      ],
+      "name": "Bloodthirster",
+      "description": "50% Lifesteal. Heal by 50% of the damage dealt by basic attacks."
+    },
+    {
+      "id": "cursed-blade",
+      "buildFrom": [
+        "negatron-cloak",
+        "recurve-bow"
+      ],
+      "name": "Cursed Blade",
+      "description": "Attacks have a 20% chance to Reduce enemy's star level by 1"
+    },
+    {
+      "id": "darkin",
+      "buildFrom": [
+        "spatula",
+        "tear-of-the-goddess"
+      ],
+      "name": "Darkin",
+      "description": "Wearer is also a Demon."
+    },
+    {
+      "id": "dragons-claw",
+      "buildFrom": [
+        "negatron-cloak",
+        "negatron-cloak"
+      ],
+      "name": "Dragon's Claw",
+      "description": "Gain 83% resistance to magic damage."
+    },
+    {
+      "id": "force-of-nature",
+      "buildFrom": [
+        "spatula",
+        "spatula"
+      ],
+      "name": "Force of Nature",
+      "description": "Wearer does not count against the unit cap."
+    },
+    {
+      "id": "frozen-heart",
+      "buildFrom": [
+        "chain-vest",
+        "tear-of-the-goddess"
+      ],
+      "name": "Frozen Heart",
+      "description": "Adjacent enemies Attack Speed is 20% Slower."
+    },
+    {
+      "id": "frozen-mallet",
+      "buildFrom": [
+        "giants-belt",
+        "spatula"
+      ],
+      "name": "Frozen Mallet",
+      "description": "Wearer is also a Glacial."
+    },
+    {
+      "id": "guardian-angel",
+      "buildFrom": [
+        "b-f-sword",
+        "chain-vest"
+      ],
+      "name": "Guardian Angel",
+      "description": "Wearer revives with 500 Health."
+    },
+    {
+      "id": "guinsoos-rageblade",
+      "buildFrom": [
+        "needlessly-large-rod",
+        "recurve-bow"
+      ],
+      "name": "Guinsoo's Rageblade",
+      "description": "Attacks grant 3% Attack Speed. Stacks infinitely."
+    },
+    {
+      "id": "hextech-gunblade",
+      "buildFrom": [
+        "b-f-sword",
+        "needlessly-large-rod"
+      ],
+      "name": "Hextech Gunblade",
+      "description": "Heal for 25% of all damage dealt."
+    },
+    {
+      "id": "hush",
+      "buildFrom": [
+        "negatron-cloak",
+        "tear-of-the-goddess"
+      ],
+      "name": "Hush",
+      "description": "Attacks have a 30% chance to Silence."
+    },
+    {
+      "id": "infinity-edge",
+      "buildFrom": [
+        "b-f-sword",
+        "b-f-sword"
+      ],
+      "name": "Infinity Edge",
+      "description": "Critical Strikes deal +100% damage."
+    },
+    {
+      "id": "ionic-spark",
+      "buildFrom": [
+        "needlessly-large-rod",
+        "negatron-cloak"
+      ],
+      "name": "Ionic Spark",
+      "description": "Whenever an enemy casts a spell, they take 200 damage."
+    },
+    {
+      "id": "knights-vow",
+      "buildFrom": [
+        "chain-vest",
+        "spatula"
+      ],
+      "name": "Knight's Vow",
+      "description": "Wearer is also a Knight."
+    },
+    {
+      "id": "locket-of-the-iron-solari",
+      "buildFrom": [
+        "chain-vest",
+        "needlessly-large-rod"
+      ],
+      "name": "Locket of the Iron Solari",
+      "description": "On start of combat, all adjacent allies gain a shield of 200."
+    },
+    {
+      "id": "ludens-echo",
+      "buildFrom": [
+        "needlessly-large-rod",
+        "tear-of-the-goddess"
+      ],
+      "name": "Luden's Echo",
+      "description": "Spells deal 200 splash damage on hit."
+    },
+    {
+      "id": "morellonomicon",
+      "buildFrom": [
+        "giants-belt",
+        "needlessly-large-rod"
+      ],
+      "name": "Morellonomicon",
+      "description": "Spells deal burn damage equal to 2.5% of the enemy's maximum health per second."
+    },
+    {
+      "id": "phantom-dancer",
+      "buildFrom": [
+        "chain-vest",
+        "recurve-bow"
+      ],
+      "name": "Phantom Dancer",
+      "description": "Wearer dodges all Critical Strikes."
+    },
+    {
+      "id": "rabadons-deathcap",
+      "buildFrom": [
+        "needlessly-large-rod",
+        "needlessly-large-rod"
+      ],
+      "name": "Rabadon's Deathcap",
+      "description": "Spell Damage +50% AP"
+    },
+    {
+      "id": "rapid-firecannon",
+      "buildFrom": [
+        "recurve-bow",
+        "recurve-bow"
+      ],
+      "name": "Rapid Firecannon",
+      "description": "Wearer's attacks cannot be dodged. Attack Range is doubled."
+    },
+    {
+      "id": "red-buff",
+      "buildFrom": [
+        "chain-vest",
+        "giants-belt"
+      ],
+      "name": "Red Buff",
+      "description": "Attacks deal 2.5% Maximum Health burn damage. Burned units cannot heal."
+    },
+    {
+      "id": "redemption",
+      "buildFrom": [
+        "giants-belt",
+        "tear-of-the-goddess"
+      ],
+      "name": "Redemption",
+      "description": "On death, heal all nearby allies for 1000 Health."
+    },
+    {
+      "id": "runaans-hurricane",
+      "buildFrom": [
+        "negatron-cloak",
+        "spatula"
+      ],
+      "name": "Runaan's Hurricane",
+      "description": "Attacks 2 additional enemies. These additional attacks deal 50% damage."
+    },
+    {
+      "id": "seraphs-embrace",
+      "buildFrom": [
+        "tear-of-the-goddess",
+        "tear-of-the-goddess"
+      ],
+      "name": "Seraph's Embrace",
+      "description": "Regain 20 mana each time a spell is cast."
+    },
+    {
+      "id": "spear-of-shojin",
+      "buildFrom": [
+        "b-f-sword",
+        "tear-of-the-goddess"
+      ],
+      "name": "Spear of Shojin",
+      "description": "After casting an ability, wearer gains 15% of its max mana per attack."
+    },
+    {
+      "id": "statikk-shiv",
+      "buildFrom": [
+        "recurve-bow",
+        "tear-of-the-goddess"
+      ],
+      "name": "Statikk Shiv",
+      "description": "Every 3rd attack deals 100 splash magical damage."
+    },
+    {
+      "id": "sword-breaker",
+      "buildFrom": [
+        "chain-vest",
+        "negatron-cloak"
+      ],
+      "name": "Sword Breaker",
+      "description": "Attacks have a 20% chance to disarm."
+    },
+    {
+      "id": "sword-of-the-divine",
+      "buildFrom": [
+        "b-f-sword",
+        "recurve-bow"
+      ],
+      "name": "Sword of the Divine",
+      "description": "Each second, the wearer has a 5% chance to gain 100% Critical Strike untill the end of the combat."
+    },
+    {
+      "id": "thornmail",
+      "buildFrom": [
+        "chain-vest",
+        "chain-vest"
+      ],
+      "name": "Thornmail",
+      "description": "Reflect 35% of damage taken from attacks."
+    },
+    {
+      "id": "titanic-hydra",
+      "buildFrom": [
+        "giants-belt",
+        "recurve-bow"
+      ],
+      "name": "Titanic Hydra",
+      "description": "Attacks deal 10% of the wearer's max Health as splash damage."
+    },
+    {
+      "id": "warmogs-armor",
+      "buildFrom": [
+        "giants-belt",
+        "giants-belt"
+      ],
+      "name": "Warmog's Armor",
+      "description": "Wearer regenerates 3% max Health per second."
+    },
+    {
+      "id": "youmuus-ghostblade",
+      "buildFrom": [
+        "b-f-sword",
+        "spatula"
+      ],
+      "name": "Youmuu's Ghostblade",
+      "description": "Wearer is also an Assassin."
+    },
+    {
+      "id": "yuumi",
+      "buildFrom": [
+        "needlessly-large-rod",
+        "spatula"
+      ],
+      "name": "Yuumi",
+      "description": "Wearer is also a Sorcerer."
+    },
+    {
+      "id": "zekes-herald",
+      "buildFrom": [
+        "b-f-sword",
+        "giants-belt"
+      ],
+      "name": "Zeke's Herald",
+      "description": "Adjacent allies gain 10% Attack Speed at the beginning of combat."
+    },
+    {
+      "id": "zephyr",
+      "buildFrom": [
+        "giants-belt",
+        "negatron-cloak"
+      ],
+      "name": "Zephyr",
+      "description": "On start of combat, banish an enemy for 5 seconds. The unit that mirrors the wielder placement on the other side of the board is banished."
+    }
+  ]
+}

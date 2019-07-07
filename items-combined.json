@@ -1,0 +1,146 @@
+[
+  {
+    "id": "blade-of-the-ruined-king",
+    "buildFrom": ["recurve-bow", "spatula"]
+  },
+  {
+    "id": "bloodthirster",
+    "buildFrom": ["b-f-sword", "negatron-cloak"]
+  },
+  {
+    "id": "cursed-blade",
+    "buildFrom": ["negatron-cloak", "recurve-bow"]
+  },
+  {
+    "id": "darkin",
+    "buildFrom": ["spatula", "tear-of-the-goddess"]
+  },
+  {
+    "id": "dragons-claw",
+    "buildFrom": ["negatron-cloak", "negatron-cloak"]
+  },
+  {
+    "id": "force-of-nature",
+    "buildFrom": ["spatula", "spatula"]
+  },
+  {
+    "id": "frozen-heart",
+    "buildFrom": ["chain-vest", "tear-of-the-goddess"]
+  },
+  {
+    "id": "frozen-mallet",
+    "buildFrom": ["giants-belt", "spatula"]
+  },
+  {
+    "id": "guardian-angel",
+    "buildFrom": ["b-f-sword", "chain-vest"]
+  },
+  {
+    "id": "guinsoos-rageblade",
+    "buildFrom": ["needlessly-large-rod", "recurve-bow"]
+  },
+  {
+    "id": "hextech-gunblade",
+    "buildFrom": ["b-f-sword", "needlessly-large-rod"]
+  },
+  {
+    "id": "hush",
+    "buildFrom": ["negatron-cloak", "tear-of-the-goddess"]
+  },
+  {
+    "id": "infinity-edge",
+    "buildFrom": ["b-f-sword", "b-f-sword"]
+  },
+  {
+    "id": "ionic-spark",
+    "buildFrom": ["needlessly-large-rod", "negatron-cloak"]
+  },
+  {
+    "id": "knights-vow",
+    "buildFrom": ["chain-vest", "spatula"]
+  },
+  {
+    "id": "locket-of-the-iron-solari",
+    "buildFrom": ["chain-vest", "needlessly-large-rod"]
+  },
+  {
+    "id": "ludens-echo",
+    "buildFrom": ["needlessly-large-rod", "tear-of-the-goddess"]
+  },
+  {
+    "id": "morellonomicon",
+    "buildFrom": ["giants-belt", "needlessly-large-rod"]
+  },
+  {
+    "id": "phantom-dancer",
+    "buildFrom": ["chain-vest", "recurve-bow"]
+  },
+  {
+    "id": "rabadons-deathcap",
+    "buildFrom": ["needlessly-large-rod", "needlessly-large-rod"]
+  },
+  {
+    "id": "rapid-firecannon",
+    "buildFrom": ["recurve-bow", "recurve-bow"]
+  },
+  {
+    "id": "red-buff",
+    "buildFrom": ["chain-vest", "giants-belt"]
+  },
+  {
+    "id": "redemption",
+    "buildFrom": ["giants-belt", "tear-of-the-goddess"]
+  },
+  {
+    "id": "runaans-hurricane",
+    "buildFrom": ["negatron-cloak", "spatula"]
+  },
+  {
+    "id": "seraphs-embrace",
+    "buildFrom": ["tear-of-the-goddess", "tear-of-the-goddess"]
+  },
+  {
+    "id": "spear-of-shojin",
+    "buildFrom": ["b-f-sword", "tear-of-the-goddess"]
+  },
+  {
+    "id": "statikk-shiv",
+    "buildFrom": ["recurve-bow", "tear-of-the-goddess"]
+  },
+  {
+    "id": "sword-breaker",
+    "buildFrom": ["chain-vest", "negatron-cloak"]
+  },
+  {
+    "id": "sword-of-the-divine",
+    "buildFrom": ["b-f-sword", "recurve-bow"]
+  },
+  {
+    "id": "thornmail",
+    "buildFrom": ["chain-vest", "chain-vest"]
+  },
+  {
+    "id": "titanic-hydra",
+    "buildFrom": ["giants-belt", "recurve-bow"]
+  },
+  {
+    "id": "warmogs-armor",
+    "buildFrom": ["giants-belt", "giants-belt"]
+  },
+  {
+    "id": "youmuus-ghostblade",
+    "buildFrom": ["b-f-sword", "spatula"]
+  },
+  {
+    "id": "yuumi",
+    "buildFrom": ["needlessly-large-rod", "spatula"]
+  },
+  {
+    "id": "zekes-herald",
+    "buildFrom": ["b-f-sword", "giants-belt"]
+  },
+  {
+    "id": "zephyr",
+    "buildFrom": ["giants-belt", "negatron-cloak"]
+  }
+]

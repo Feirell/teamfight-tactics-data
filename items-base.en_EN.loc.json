@@ -1,0 +1,34 @@
+{
+  "b-f-sword": {
+    "name": "B. F. Sword",
+    "description": "+20 Attack Damage"
+  },
+  "chain-vest": {
+    "name": "Chain Vest",
+    "description": "+20 Armor"
+  },
+  "giants-belt": {
+    "name": "Giant's Belt",
+    "description": "+200 Health"
+  },
+  "needlessly-large-rod": {
+    "name": "Needlessly Large Rod",
+    "description": "+20% Spell Damage"
+  },
+  "negatron-cloak": {
+    "name": "Negatron Cloak",
+    "description": "+20 Magic Resist"
+  },
+  "recurve-bow": {
+    "name": "Recurve Bow",
+    "description": "+20% Attack Speed"
+  },
+  "spatula": {
+    "name": "Spatula",
+    "description": ""
+  },
+  "tear-of-the-goddess": {
+    "name": "Tear of the Goddess",
+    "description": "+20 starting Mana"
+  }
+}

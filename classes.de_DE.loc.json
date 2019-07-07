@@ -1,0 +1,42 @@
+{
+  "assassin": {
+    "className": "",
+    "description": "Assassinen greifen zu Beginn der Kampfphase das am weitesten von ihnen entfernte Ziel an und verursachen zusätzlich kritischen Schaden. Ab drei Assassinen erhöht sich der Schaden von kritischen Treffern um +150%, ab sechs um +350%."
+  },
+  "blademaster": {
+    "className": "",
+    "description": "Alle Blademaster haben eine Chance von 35% für zusätzlichen Schaden bei jeder Attacke. Die Anzahl der Angriffe erhöht sich bei drei und bei sechs Blademasters um je eine Attacke."
+  },
+  "brawler": {
+    "className": "",
+    "description": "Die maximale Gesundheit von Brawlern ist erhöht, ab zwei Brawlern gibt es zusätzlich +300 Bonus-HP und ab vier Brawlern +700 Bonus-HP."
+  },
+  "elementalist": {
+    "className": "",
+    "description": "Bei jeder Attacke erhalten Elementalists die doppelte Menge Mana zurück. Stehen drei von ihnen auf dem Feld, beschwören sie zum Kampfbeginn einen Elementar."
+  },
+  "guardian": {
+    "className": "",
+    "description": "Stehen beide auf dem Feld, erhalten zu Beginn einer Kampfrunde alle Guardian Champions und ihre benachbarten Helden +30 Bonus-Rüstung."
+  },
+  "gunslinger": {
+    "className": "",
+    "description": "Nach jedem Angriff erhalten alle Gunslinger eine Chance von 50% für eine zusätzliche Attacke. Stehen zwei Gunslinger, wird automatisch ein weiterer zufällig ausgewählter Find angegriffen, ab vier Gunslinger sogar alle Feinde in Reichweite."
+  },
+  "knight": {
+    "className": "",
+    "description": "Die Ritter in TFT blocken Schaden von Autoattacks ab. Zwei Knights blocken 20 Schaden, vier blocken 40 Schaden und sechs blocken 80 Schaden."
+  },
+  "ranger": {
+    "className": "",
+    "description": "Ranger haben alle drei Sekunden die Chance, ihre Angriffsgeschwindigkeit zu verdoppeln. Bei zwei Rangern beträgt die Chance 25% und ab vier Rangern 65%."
+  },
+  "shapeshifter": {
+    "className": "",
+    "description": "Wenn sich die Shapeshifter verwandeln, erhöht sich ihr maximaler HP-Wert. Ab drei Shapeshiftern erhalten sie +100% maximales Leben dazu."
+  },
+  "sorcerer": {
+    "className": "",
+    "description": "Alle Verbündete erhalten von Zauberern erhöhten Zauberschaden. Ab drei Zauberern erhöht sich der Zauberschaden um +35% und ab sechs Zauberern um +100%."
+  }
+}

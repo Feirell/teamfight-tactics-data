@@ -1,0 +1,146 @@
+{
+  "blade-of-the-ruined-king": {
+    "name": "Blade of the Ruined King",
+    "description": "Wearer is also a Blademaster."
+  },
+  "bloodthirster": {
+    "name": "Bloodthirster",
+    "description": "50% Lifesteal. Heal by 50% of the damage dealt by basic attacks."
+  },
+  "cursed-blade": {
+    "name": "Cursed Blade",
+    "description": "Attacks have a 20% chance to Reduce enemy's star level by 1"
+  },
+  "darkin": {
+    "name": "Darkin",
+    "description": "Wearer is also a Demon."
+  },
+  "dragons-claw": {
+    "name": "Dragon's Claw",
+    "description": "Gain 83% resistance to magic damage."
+  },
+  "force-of-nature": {
+    "name": "Force of Nature",
+    "description": "Wearer does not count against the unit cap."
+  },
+  "frozen-heart": {
+    "name": "Frozen Heart",
+    "description": "Adjacent enemies Attack Speed is 20% Slower."
+  },
+  "frozen-mallet": {
+    "name": "Frozen Mallet",
+    "description": "Wearer is also a Glacial."
+  },
+  "guardian-angel": {
+    "name": "Guardian Angel",
+    "description": "Wearer revives with 500 Health."
+  },
+  "guinsoos-rageblade": {
+    "name": "Guinsoo's Rageblade",
+    "description": "Attacks grant 3% Attack Speed. Stacks infinitely."
+  },
+  "hextech-gunblade": {
+    "name": "Hextech Gunblade",
+    "description": "Heal for 25% of all damage dealt."
+  },
+  "hush": {
+    "name": "Hush",
+    "description": "Attacks have a 30% chance to Silence."
+  },
+  "infinity-edge": {
+    "name": "Infinity Edge",
+    "description": "Critical Strikes deal +100% damage."
+  },
+  "ionic-spark": {
+    "name": "Ionic Spark",
+    "description": "Whenever an enemy casts a spell, they take 200 damage."
+  },
+  "knights-vow": {
+    "name": "Knight's Vow",
+    "description": "Wearer is also a Knight."
+  },
+  "locket-of-the-iron-solari": {
+    "name": "Locket of the Iron Solari",
+    "description": "On start of combat, all adjacent allies gain a shield of 200."
+  },
+  "ludens-echo": {
+    "name": "Luden's Echo",
+    "description": "Spells deal 200 splash damage on hit."
+  },
+  "morellonomicon": {
+    "name": "Morellonomicon",
+    "description": "Spells deal burn damage equal to 2.5% of the enemy's maximum health per second."
+  },
+  "phantom-dancer": {
+    "name": "Phantom Dancer",
+    "description": "Wearer dodges all Critical Strikes."
+  },
+  "rabadons-deathcap": {
+    "name": "Rabadon's Deathcap",
+    "description": "Spell Damage +50% AP"
+  },
+  "rapid-firecannon": {
+    "name": "Rapid Firecannon",
+    "description": "Wearer's attacks cannot be dodged. Attack Range is doubled."
+  },
+  "red-buff": {
+    "name": "Red Buff",
+    "description": "Attacks deal 2.5% Maximum Health burn damage. Burned units cannot heal."
+  },
+  "redemption": {
+    "name": "Redemption",
+    "description": "On death, heal all nearby allies for 1000 Health."
+  },
+  "runaans-hurricane": {
+    "name": "Runaan's Hurricane",
+    "description": "Attacks 2 additional enemies. These additional attacks deal 50% damage."
+  },
+  "seraphs-embrace": {
+    "name": "Seraph's Embrace",
+    "description": "Regain 20 mana each time a spell is cast."
+  },
+  "spear-of-shojin": {
+    "name": "Spear of Shojin",
+    "description": "After casting an ability, wearer gains 15% of its max mana per attack."
+  },
+  "statikk-shiv": {
+    "name": "Statikk Shiv",
+    "description": "Every 3rd attack deals 100 splash magical damage."
+  },
+  "sword-breaker": {
+    "name": "Sword Breaker",
+    "description": "Attacks have a 20% chance to disarm."
+  },
+  "sword-of-the-divine": {
+    "name": "Sword of the Divine",
+    "description": "Each second, the wearer has a 5% chance to gain 100% Critical Strike untill the end of the combat."
+  },
+  "thornmail": {
+    "name": "Thornmail",
+    "description": "Reflect 35% of damage taken from attacks."
+  },
+  "titanic-hydra": {
+    "name": "Titanic Hydra",
+    "description": "Attacks deal 10% of the wearer's max Health as splash damage."
+  },
+  "warmogs-armor": {
+    "name": "Warmog's Armor",
+    "description": "Wearer regenerates 3% max Health per second."
+  },
+  "youmuus-ghostblade": {
+    "name": "Youmuu's Ghostblade",
+    "description": "Wearer is also an Assassin."
+  },
+  "yuumi": {
+    "name": "Yuumi",
+    "description": "Wearer is also a Sorcerer."
+  },
+  "zekes-herald": {
+    "name": "Zeke's Herald",
+    "description": "Adjacent allies gain 10% Attack Speed at the beginning of combat."
+  },
+  "zephyr": {
+    "name": "Zephyr",
+    "description": "On start of combat, banish an enemy for 5 seconds. The unit that mirrors the wielder placement on the other side of the board is banished."
+  }
+}

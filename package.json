@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "build-sprite": "node ./helper/gen-sprite.js"
+  },
+  "devDependencies": {
+    "chainable-error": "^0.0.1",
+    "jimp": "^0.6.4",
+    "spritesmith": "^3.3.1"
+  }
+}

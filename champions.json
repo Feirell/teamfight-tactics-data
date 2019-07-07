@@ -1,0 +1,461 @@
+[
+  {
+    "id": "aatrox",
+    "name": "Aatrox",
+    "class": "blademaster",
+    "origins": ["demon"],
+    "cost": 2,
+    "health": [650, 1170, 2340],
+    "dps": 42
+  },
+  {
+    "id": "ahri",
+    "name": "Ahri",
+    "class": "sorcerer",
+    "origins": ["wild"],
+    "cost": 2,
+    "health": [450, 810, 1620],
+    "dps": 28
+  },
+  {
+    "id": "akali",
+    "name": "Akali",
+    "class": "assassin",
+    "origins": ["ninja"],
+    "cost": 4,
+    "health": [700, 1260, 2520],
+    "dps": 53
+  },
+  {
+    "id": "anivia",
+    "name": "Anivia",
+    "class": "elementalist",
+    "origins": ["glacial"],
+    "cost": 5,
+    "health": [650, 1170, 2340],
+    "dps": 24
+  },
+  {
+    "id": "ashe",
+    "name": "Ashe",
+    "class": "ranger",
+    "origins": ["glacial"],
+    "cost": 3,
+    "health": [550, 990, 1980],
+    "dps": 42
+  },
+  {
+    "id": "aurelion-sol",
+    "name": "Aurelion Sol",
+    "class": "sorcerer",
+    "origins": ["dragon"],
+    "cost": 4,
+    "health": [600, 1080, 2160],
+    "dps": 24
+  },
+  {
+    "id": "blitzcrank",
+    "name": "Blitzcrank",
+    "class": "brawler",
+    "origins": ["robot"],
+    "cost": 2,
+    "health": [600, 1080, 2160],
+    "dps": 25
+  },
+  {
+    "id": "brand",
+    "name": "Brand",
+    "class": "elementalist",
+    "origins": ["demon"],
+    "cost": 4,
+    "health": [700, 1260, 2520],
+    "dps": 36
+  },
+  {
+    "id": "braum",
+    "name": "Braum",
+    "class": "guardian",
+    "origins": ["glacial"],
+    "cost": 2,
+    "health": [750, 1350, 2700],
+    "dps": 24
+  },
+  {
+    "id": "chogath",
+    "name": "Cho'Gath",
+    "class": "brawler",
+    "origins": ["void"],
+    "cost": 4,
+    "health": [1100, 2000, 4000],
+    "dps": 39
+  },
+  {
+    "id": "darius",
+    "name": "Darius",
+    "class": "knight",
+    "origins": ["imperial"],
+    "cost": 1,
+    "health": [600, 1080, 2160],
+    "dps": 25
+  },
+  {
+    "id": "draven",
+    "name": "Draven",
+    "class": "blademaster",
+    "origins": ["imperial"],
+    "cost": 4,
+    "health": [700, 1260, 2520],
+    "dps": 49
+  },
+  {
+    "id": "elise",
+    "name": "Elise",
+    "class": "shapeshifter",
+    "origins": ["demon"],
+    "cost": 2,
+    "health": [500, 900, 1800],
+    "dps": 24
+  },
+  {
+    "id": "evelynn",
+    "name": "Evelynn",
+    "class": "assassin",
+    "origins": ["demon"],
+    "cost": 3,
+    "health": [550, 990, 1980],
+    "dps": 30
+  },
+  {
+    "id": "fiora",
+    "name": "Fiora",
+    "class": "blademaster",
+    "origins": ["noble"],
+    "cost": 1,
+    "health": [400, 720, 1440],
+    "dps": 28
+  },
+  {
+    "id": "gangplank",
+    "name": "Gangplank",
+    "class": "gunslinger",
+    "origins": ["pirate"],
+    "cost": 3,
+    "health": [600, 1080, 2160],
+    "dps": 33
+  },
+  {
+    "id": "gangplank",
+    "name": "Gangplank",
+    "class": "blademaster",
+    "origins": ["pirate"],
+    "cost": 3,
+    "health": [600, 1080, 2160],
+    "dps": 33
+  },
+  {
+    "id": "garen",
+    "name": "Garen",
+    "class": "knight",
+    "origins": ["noble"],
+    "cost": 1,
+    "health": [600, 1080, 2160],
+    "dps": 30
+  },
+  {
+    "id": "gnar",
+    "name": "Gnar",
+    "class": "shapeshifter",
+    "origins": ["wild", "yordle"],
+    "cost": 4,
+    "health": [850, 1530, 3060],
+    "dps": 31
+  },
+  {
+    "id": "graves",
+    "name": "Graves",
+    "class": "gunslinger",
+    "origins": ["pirate"],
+    "cost": 1,
+    "health": [500, 900, 1800],
+    "dps": 28
+  },
+  {
+    "id": "karthus",
+    "name": "Karthus",
+    "class": "sorcerer",
+    "origins": ["phantom"],
+    "cost": 5,
+    "health": [850, 1530, 3060],
+    "dps": 42
+  },
+  {
+    "id": "kassadin",
+    "name": "Kassadin",
+    "class": "sorcerer",
+    "origins": ["void"],
+    "cost": 1,
+    "health": [550, 990, 1980],
+    "dps": 29
+  },
+  {
+    "id": "katarina",
+    "name": "Katarina",
+    "class": "assassin",
+    "origins": ["imperial"],
+    "cost": 3,
+    "health": [450, 810, 1620],
+    "dps": 30
+  },
+  {
+    "id": "kayle",
+    "name": "Kayle",
+    "class": "knight",
+    "origins": ["noble"],
+    "cost": 5,
+    "health": [800, 1440, 2880],
+    "dps": 66
+  },
+  {
+    "id": "kennen",
+    "name": "Kennen",
+    "class": "elementalist",
+    "origins": ["ninja", "yordle"],
+    "cost": 3,
+    "health": [550, 990, 1980],
+    "dps": 36
+  },
+  {
+    "id": "khazix",
+    "name": "Kha'Zix",
+    "class": "assassin",
+    "origins": ["void"],
+    "cost": 1,
+    "health": [500, 900, 1800],
+    "dps": 30
+  },
+  {
+    "id": "kindred",
+    "name": "Kindred",
+    "class": "ranger",
+    "origins": ["phantom"],
+    "cost": 4,
+    "health": [600, 1080, 2160],
+    "dps": 36
+  },
+  {
+    "id": "leona",
+    "name": "Leona",
+    "class": "guardian",
+    "origins": ["noble"],
+    "cost": 4,
+    "health": [750, 1350, 2700],
+    "dps": 25
+  },
+  {
+    "id": "lissandra",
+    "name": "Lissandra",
+    "class": "elementalist",
+    "origins": ["glacial"],
+    "cost": 1,
+    "health": [450, 810, 1620],
+    "dps": 24
+  },
+  {
+    "id": "lucian",
+    "name": "Lucian",
+    "class": "gunslinger",
+    "origins": ["noble"],
+    "cost": 2,
+    "health": [600, 1080, 2160],
+    "dps": 42
+  },
+  {
+    "id": "lulu",
+    "name": "Lulu",
+    "class": "sorcerer",
+    "origins": ["yordle"],
+    "cost": 2,
+    "health": [500, 900, 1800],
+    "dps": 30
+  },
+  {
+    "id": "miss-fortune",
+    "name": "Miss Fortune",
+    "class": "gunslinger",
+    "origins": ["pirate"],
+    "cost": 5,
+    "health": [650, 1170, 2340],
+    "dps": 64
+  },
+  {
+    "id": "mordekaiser",
+    "name": "Mordekaiser",
+    "class": "knight",
+    "origins": ["phantom"],
+    "cost": 1,
+    "health": [500, 900, 1800],
+    "dps": 25
+  },
+  {
+    "id": "morgana",
+    "name": "Morgana",
+    "class": "sorcerer",
+    "origins": ["demon"],
+    "cost": 3,
+    "health": [650, 1170, 2340],
+    "dps": 30
+  },
+  {
+    "id": "nidalee",
+    "name": "Nidalee",
+    "class": "shapeshifter",
+    "origins": ["wild"],
+    "cost": 1,
+    "health": [500, 900, 1800],
+    "dps": 33
+  },
+  {
+    "id": "poppy",
+    "name": "Poppy",
+    "class": "knight",
+    "origins": ["yordle"],
+    "cost": 3,
+    "health": [750, 1350, 2700],
+    "dps": 25
+  },
+  {
+    "id": "pyke",
+    "name": "Pyke",
+    "class": "assassin",
+    "origins": ["pirate"],
+    "cost": 2,
+    "health": [600, 1080, 2160],
+    "dps": 36
+  },
+  {
+    "id": "reksai",
+    "name": "Rek'Sai",
+    "class": "brawler",
+    "origins": ["void"],
+    "cost": 2,
+    "health": [650, 1170, 2340],
+    "dps": 26
+  },
+  {
+    "id": "rengar",
+    "name": "Rengar",
+    "class": "assassin",
+    "origins": ["wild"],
+    "cost": 3,
+    "health": [550, 990, 1980],
+    "dps": 30
+  },
+  {
+    "id": "sejuani",
+    "name": "Sejuani",
+    "class": "knight",
+    "origins": ["glacial"],
+    "cost": 4,
+    "health": [850, 1530, 3060],
+    "dps": 25
+  },
+  {
+    "id": "shen",
+    "name": "Shen",
+    "class": "blademaster",
+    "origins": ["ninja"],
+    "cost": 2,
+    "health": [650, 1170, 2340],
+    "dps": 39
+  },
+  {
+    "id": "shyvana",
+    "name": "Shyvana",
+    "class": "shapeshifter",
+    "origins": ["dragon"],
+    "cost": 3,
+    "health": [550, 990, 1980],
+    "dps": 33
+  },
+  {
+    "id": "swain",
+    "name": "Swain",
+    "class": "shapeshifter",
+    "origins": ["demon", "imperial"],
+    "cost": 5,
+    "health": [850, 1530, 3060],
+    "dps": 42
+  },
+  {
+    "id": "tristana",
+    "name": "Tristana",
+    "class": "gunslinger",
+    "origins": ["yordle"],
+    "cost": 1,
+    "health": [500, 900, 1800],
+    "dps": 35
+  },
+  {
+    "id": "varus",
+    "name": "Varus",
+    "class": "ranger",
+    "origins": ["demon"],
+    "cost": 2,
+    "health": [500, 900, 1800],
+    "dps": 35
+  },
+  {
+    "id": "vayne",
+    "name": "Vayne",
+    "class": "ranger",
+    "origins": ["noble"],
+    "cost": 1,
+    "health": [550, 990, 1980],
+    "dps": 27
+  },
+  {
+    "id": "veigar",
+    "name": "Veigar",
+    "class": "sorcerer",
+    "origins": ["yordle"],
+    "cost": 3,
+    "health": [450, 810, 1620],
+    "dps": 25
+  },
+  {
+    "id": "volibear",
+    "name": "Volibear",
+    "class": "brawler",
+    "origins": ["glacial"],
+    "cost": 2,
+    "health": [650, 1170, 2340],
+    "dps": 38
+  },
+  {
+    "id": "warwick",
+    "name": "Warwick",
+    "class": "brawler",
+    "origins": ["wild"],
+    "cost": 1,
+    "health": [600, 1080, 2160],
+    "dps": 30
+  },
+  {
+    "id": "yasuo",
+    "name": "Yasuo",
+    "class": "blademaster",
+    "origins": ["exile"],
+    "cost": 5,
+    "health": [700, 1260, 2520],
+    "dps": 65
+  },
+  {
+    "id": "zed",
+    "name": "Zed",
+    "class": "assassin",
+    "origins": ["ninja"],
+    "cost": 2,
+    "health": [500, 900, 1800],
+    "dps": 39
+  }
+]

@@ -1,0 +1,42 @@
+{
+  "assassin": {
+    "className": "Assassin",
+    "description": ""
+  },
+  "blademaster": {
+    "className": "Blademaster",
+    "description": ""
+  },
+  "brawler": {
+    "className": "Brawler",
+    "description": ""
+  },
+  "elementalist": {
+    "className": "Elementalist",
+    "description": ""
+  },
+  "guardian": {
+    "className": "Guardian",
+    "description": ""
+  },
+  "gunslinger": {
+    "className": "Gunslinger",
+    "description": ""
+  },
+  "knight": {
+    "className": "Knight",
+    "description": ""
+  },
+  "ranger": {
+    "className": "Ranger",
+    "description": ""
+  },
+  "shapeshifter": {
+    "className": "Shapeshifter",
+    "description": ""
+  },
+  "sorcerer": {
+    "className": "Sorcerer",
+    "description": ""
+  }
+}
