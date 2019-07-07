@@ -9,7 +9,7 @@ This repository is meant to be used as a central place for any data concerning t
 This repository is structured by their datasets and their corresponding localasations. Available `set`s are `champions`, `classes`, `items-base` and `items-combined`.
 Each set has its `<set>.json` and atleast the `en_EN` corresponding `<set>.<loc>.loc.json` localisation file.
 
-### `bundled.<loc>.json` (generated)
+### `bundle.<loc>.json` (generated)
 
 This is probably the file you are looking for, it is a bundled version of all data `set`s in the defined localasation.
 
@@ -33,7 +33,7 @@ Examplary with JSdelivr:
 
 ``` txt
 // bundle
-https://cdn.jsdelivr.net/gh/Feirell/teamfight-tactics-data/combined.en_EN.json
+https://cdn.jsdelivr.net/gh/Feirell/teamfight-tactics-data/bundle.en_EN.json
 
 // item icons
 https://cdn.jsdelivr.net/gh/Feirell/teamfight-tactics-data/items-sprite.png
