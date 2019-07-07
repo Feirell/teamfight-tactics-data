@@ -30,6 +30,7 @@ Contains an object whose keys are corresponding to the ids which are defined in 
 This repository is meant to be used with a cdn.
 
 Examplary with JSdelivr:
+Keep in mind that you should add a version in the url, for example: `https://cdn.jsdelivr.net/gh/Feirell/teamfight-tactics-data@0.0.2/bundle.en_EN.json`
 
 ``` txt
 // bundle
