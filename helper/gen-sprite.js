@@ -15,7 +15,9 @@ const mkdir = util.promisify(fs.mkdir);
 const base = path.resolve(__dirname, '..');
 
 const itemsBasePath = path.resolve(base, 'items-base.json');
+const itemsBaseLocPath = path.resolve(base, 'items-base.en_EN.loc.json');
 const itemsCombinedPath = path.resolve(base, 'items-combined.json');
+const itemsCombinedLocPath = path.resolve(base, 'items-combined.en_EN.loc.json');
 
 const imageDirectoryPath = path.resolve(base, 'item-images');
 const spritePath = path.resolve(base, 'items-sprite.png');
@@ -23,12 +25,19 @@ const spriteMapPath = path.resolve(base, 'items-sprite.map.json');
 
 (async () => {
     // read the items
-    const itemsBase = readFile(itemsBasePath);
-    const itemsCombined = readFile(itemsCombinedPath);
+    const itemsBaseProm = readFile(itemsBasePath);
+    const itemsBaseLocProm = readFile(itemsBaseLocPath);
+    const itemsCombinedProm = readFile(itemsCombinedPath);
+    const itemsCombinedLocProm = readFile(itemsCombinedLocPath);
+
+    const itemsBase = JSON.parse(await itemsBaseProm);
+    const itemsBaseLoc = JSON.parse(await itemsBaseLocProm);
+    const itemsCombined = JSON.parse(await itemsCombinedProm);
+    const itemsCombinedLoc = JSON.parse(await itemsCombinedLocProm);
 
     const items = [
-        ...JSON.parse(await itemsBase),
-        ...JSON.parse(await itemsCombined)
+        ...itemsBase.map(item => ({ ...item, ...itemsBaseLoc[item.id] })),
+        ...itemsCombined.map(item => ({ ...item, ...itemsCombinedLoc[item.id] }))
     ];
 
     // create the image dir
