@@ -33,5 +33,5 @@ const readDataSet = async (name, locale) => {
     for (const [k, v] of Object.entries(combined))
         combined[k] = await v;
 
-    await write('combined.' + locale + '.json', combined);
+    await write('bundle.' + locale + '.json', combined);
 })().catch(console.error);
